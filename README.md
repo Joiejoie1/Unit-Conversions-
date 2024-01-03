@@ -14,3 +14,5 @@ Use the <section> tag to split the page into logical sections
 Use <figure> and <figcaption> tags to add an image along with an appropriate caption
 Use the <footer> tag to include information at the bottom of the page
 Use the <aside> tag to provide information that is related to the application, but doesn’t impact the application.
+
+Here is the browser link: http://127.0.0.1:5500/index.html 
